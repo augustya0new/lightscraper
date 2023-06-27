@@ -1,0 +1,7 @@
+# LightScraper Requirements
+
+# Beautiful Soup - A library for parsing HTML and XML documents
+beautifulsoup4==4.9.3
+
+# Requests - A library for making HTTP requests
+requests==2.26.0
